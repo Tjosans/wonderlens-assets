@@ -1,0 +1,11 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- WonderLens Logo Mark — WHITE variant at 400px for Figma splash screen import -->
+  <!-- This replaces nodes 35:46 / 35:47 / 35:48 (portrait) and 107:343 / 107:344 / 107:345 (landscape) -->
+  <!-- Upload to a public URL (GitHub raw, Cloudinary, etc.) then use figma-local:import_image -->
+  <circle cx="200" cy="200" r="164" stroke="#FFFFFF" stroke-width="18"/>
+  <line x1="200" y1="44"  x2="200" y2="140" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+  <line x1="200" y1="260" x2="200" y2="356" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+  <line x1="44"  y1="200" x2="140" y2="200" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+  <line x1="260" y1="200" x2="356" y2="200" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="200" cy="200" r="26" fill="#F5A623"/>
+</svg>

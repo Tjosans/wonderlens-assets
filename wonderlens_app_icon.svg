@@ -1,0 +1,14 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- WonderLens — App Icon (512x512, lavender background with violet mark) -->
+  <!-- Background -->
+  <rect width="512" height="512" rx="115" fill="#F2EEFF"/>
+  <!-- Mark — scaled and centred in icon canvas -->
+  <g transform="translate(56, 56) scale(2)">
+    <circle cx="100" cy="100" r="82" stroke="#5B3FD4" stroke-width="9"/>
+    <line x1="100" y1="22" x2="100" y2="70" stroke="#5B3FD4" stroke-width="6" stroke-linecap="round"/>
+    <line x1="100" y1="130" x2="100" y2="178" stroke="#5B3FD4" stroke-width="6" stroke-linecap="round"/>
+    <line x1="22"  y1="100" x2="70"  y2="100" stroke="#5B3FD4" stroke-width="6" stroke-linecap="round"/>
+    <line x1="130" y1="100" x2="178" y2="100" stroke="#5B3FD4" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="100" cy="100" r="13" fill="#F5A623"/>
+  </g>
+</svg>

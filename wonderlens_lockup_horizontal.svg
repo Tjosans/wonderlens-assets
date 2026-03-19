@@ -1,0 +1,33 @@
+<svg width="520" height="200" viewBox="0 0 520 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- WonderLens — Horizontal Logo Lockup (violet on transparent, for light backgrounds) -->
+  <!-- ─── Mark (left) ─── -->
+  <g transform="translate(0, 0)">
+    <circle cx="100" cy="100" r="82" stroke="#5B3FD4" stroke-width="9"/>
+    <line x1="100" y1="22" x2="100" y2="70" stroke="#5B3FD4" stroke-width="6" stroke-linecap="round"/>
+    <line x1="100" y1="130" x2="100" y2="178" stroke="#5B3FD4" stroke-width="6" stroke-linecap="round"/>
+    <line x1="22"  y1="100" x2="70"  y2="100" stroke="#5B3FD4" stroke-width="6" stroke-linecap="round"/>
+    <line x1="130" y1="100" x2="178" y2="100" stroke="#5B3FD4" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="100" cy="100" r="13" fill="#F5A623"/>
+  </g>
+  <!-- ─── Separator line (subtle) ─── -->
+  <line x1="222" y1="48" x2="222" y2="152" stroke="#C4B5D0" stroke-width="1.5"/>
+  <!-- ─── Text group (right of mark) ─── -->
+  <!-- Wordmark -->
+  <text x="244" y="95" text-anchor="start"
+        font-family="Nunito, 'Nunito Sans', Helvetica Neue, Arial, sans-serif"
+        font-weight="800" font-size="52" letter-spacing="-0.5">
+    <tspan fill="#5B3FD4">Wonder</tspan><tspan fill="#F5A623">Lens</tspan>
+  </text>
+  <!-- Tagline -->
+  <text x="246" y="124" text-anchor="start"
+        font-family="Nunito, 'Nunito Sans', Helvetica Neue, Arial, sans-serif"
+        font-weight="600" font-size="16" fill="#7B6BA0" letter-spacing="0.2">
+    See how things work
+  </text>
+  <!-- Attribution -->
+  <text x="246" y="148" text-anchor="start"
+        font-family="Nunito, 'Nunito Sans', Helvetica Neue, Arial, sans-serif"
+        font-weight="600" font-size="13" fill="#C4B5D0" letter-spacing="0.5">
+    by Visiant
+  </text>
+</svg>
